@@ -262,6 +262,7 @@ main, footer {
   .view-2 .bottom .line {
     height: 1px;
     width: initial;
+    margin: 2rem 0;
   }
   .line {
     background-color: #191919;
